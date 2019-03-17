@@ -8,7 +8,7 @@ Welcome to the Clicky Game!  This is a memory game using React.
 4.) If you hit the same image, an alert will pop up and have you restart the game.
 
 # Technologies Used
-React
-ES6
-Bootstrap
+React,
+ES6,
+Bootstrap,
 CSS
