@@ -12,3 +12,5 @@ Welcome to the Clicky Game!  This is a memory game using React.
 - ES6
 - Bootstrap
 - CSS
+
+Deployed through Heroku.  Click to check out [here]( https://salty-chamber-83936.herokuapp.com/).
